@@ -1,7 +1,7 @@
 ### Machine Learning-Based GRE College Prediction
 This project aims to predict college admission based on GRE scores using machine learning techniques. It utilizes a dataset that contains the GRE scores and college admission status of various applicants. The dataset is preprocessed to remove missing values and normalize the data, and then various machine learning models are trained on this data to predict college admission.
 
-Dataset
+## Dataset
 The dataset used for this project is the GRE College Admission dataset, which is available on Kaggle. It contains the following columns:
 
 GRE Scores (out of 340)
