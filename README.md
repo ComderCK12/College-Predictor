@@ -7,7 +7,8 @@ The dataset used for this project is the GRE College Admission dataset, which is
 GRE Scores (out of 340) <br />
 TOEFL Scores (out of 120) <br />
 University Rating (out of 5) <br />
-Statement of Purpose and Letter of Recommendation Strength (out of 5) <br />
+Statement of Purpose (out of 5) <br />
+Letter of Recommendation Strength (out of 5) <br />
 Undergraduate GPA (out of 10) <br />
 Research Experience (either 0 or 1) <br />
 Chance of Admission (ranging from 0 to 1) <br />
