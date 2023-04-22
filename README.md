@@ -4,13 +4,13 @@ This project aims to predict college admission based on GRE scores using machine
 ## Dataset
 The dataset used for this project is the GRE College Admission dataset, which is available on Kaggle. It contains the following columns:
 
-GRE Scores (out of 340)
-TOEFL Scores (out of 120)
-University Rating (out of 5)
-Statement of Purpose and Letter of Recommendation Strength (out of 5)
-Undergraduate GPA (out of 10)
-Research Experience (either 0 or 1)
-Chance of Admission (ranging from 0 to 1)
+GRE Scores (out of 340) <br />
+TOEFL Scores (out of 120) <br />
+University Rating (out of 5) <br />
+Statement of Purpose and Letter of Recommendation Strength (out of 5) <br />
+Undergraduate GPA (out of 10) <br />
+Research Experience (either 0 or 1) <br />
+Chance of Admission (ranging from 0 to 1) <br />
 
 ## Preprocessing
 Before training the machine learning models, the dataset is preprocessed to remove missing values and normalize the data. The missing values are replaced with the mean value of the corresponding column, and the data is normalized using the standard score normalization technique.
